@@ -1,6 +1,6 @@
-url: https://misantrop.info
-name: Misantropův zápisník
-description: Hrách a broky!
+url: https://kcc.misantrop.info
+name: Kuřecí con carne
+description: Hejna sejra s kousky housky
 
 # Your name to show in the footer
 author: Martin Malý
@@ -8,8 +8,9 @@ author: Martin Malý
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Domů: "https://misantrop.info"
+  Domů: "https://kcc.misantrop.info"
   Zápisník na Medium: "https://medium.com/@adent"
+  Misantropův zápisník: "https://misantrop.info/"
   Moje knihy:
     - Hradla volty jednočipy: "https://elektrokniha.cz"
     - Porty bajty osmibity: "https://osmibity.cz"
