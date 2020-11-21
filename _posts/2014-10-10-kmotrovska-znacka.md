@@ -17,7 +17,7 @@ Kmotr je kmotr, kmotra nechme spinkat. Co takhle další populární mediální 
 
 VB vzal čert, ale tyhle značky ne. Fialová saka a nová nomenklatura tenhle bohulibý zvyk udržují při životě dál. Onderkova značka končí 0001, starosta Poděbrad prý 9999, no a jihočeský hejtman Zimola jezdil autem, jehož RZ končila 1111. Taková náhoda! &#8222;Zkrátka na mne vyšly&#8220;, prohlásil Zimola. A do toho se magistrátní mluvčí kroutili jak hadi, když říkali, že &#8222;to je jen náhoda, že to holt takhle vyšlo&#8220;.
 
-Ale to není podstata. Jistě všichni věříme, že to je náhoda, takovej pechfógl Zimola, jeho auto si každej zapamatuje. Spíš mi vysvětlete, proč by někdo chtěl mít takovouhle značku. Může být dyslektik s poruchou pamatování číslic, OK, to možná. Dál? Ať přemýšlím jak přemýšlím, tak mi vychází, že takovouhle značku může chtít dál jen ten, kdo jí chce ukázat, vystavit na odiv. Ale říkám si: Co přesně vystavuje na odiv? Svůj vliv , své známosti? Asi tak.
+Ale to není podstata. Jistě všichni věříme, že to je náhoda, takovej pechfógl Zimola, jeho auto si každej zapamatuje. Spíš mi vysvětlete, proč by někdo chtěl mít takovouhle značku. Může být dyslektik s poruchou pamatování číslic, OK, to možná. Dál? Ať přemýšlím jak přemýšlím, tak mi vychází, že takovouhle značku může chtít dál jen ten, kdo jí chce ukázat, vystavit na odiv. Ale říkám si: Co přesně vystavuje na odiv? Svůj vliv, své známosti? Asi tak.
 
 To ale není moc chytré, co? Chlubit se svým vlivem, majetkem, čímkoli. Většinou to dělají různí veksláčkové, jejich mentalitě okázalost vyhovuje. Ale opravdový vliv, silný, se takhle manifestovat nepotřebuje, a nejen to: je mnohem silnější, když se o jeho síle neví.
 
