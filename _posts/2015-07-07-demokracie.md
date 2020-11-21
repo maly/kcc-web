@@ -4,7 +4,7 @@ title: Demokracie
 date: 2015-07-07T07:07:56+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1432
+guid: https://kcc.misantrop.info/?p=1432
 permalink: /2015/07/07/demokracie/
 xyz_lnap:
   - "1"

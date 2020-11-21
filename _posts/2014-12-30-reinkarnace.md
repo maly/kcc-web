@@ -4,7 +4,7 @@ title: Reinkarnace
 date: 2014-12-30T08:00:01+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=616
+guid: https://kcc.misantrop.info/?p=616
 permalink: /2014/12/30/reinkarnace/
 xyz_lnap:
   - "1"

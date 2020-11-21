@@ -4,7 +4,7 @@ title: Diverzita
 date: 2014-08-24T07:00:59+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=129
+guid: https://kcc.misantrop.info/?p=129
 permalink: /2014/08/24/diverzita/
 categories:
   - Kuřecí

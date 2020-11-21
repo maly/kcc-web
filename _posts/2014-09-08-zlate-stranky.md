@@ -4,7 +4,7 @@ title: Zlaté stránky
 date: 2014-09-08T07:00:59+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=210
+guid: https://kcc.misantrop.info/?p=210
 permalink: /2014/09/08/zlate-stranky/
 categories:
   - Kuřecí

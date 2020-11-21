@@ -4,7 +4,7 @@ title: Autentická hospoda
 date: 2014-08-07T06:49:50+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=30
+guid: https://kcc.misantrop.info/?p=30
 permalink: /2014/08/07/autenticka-hospoda/
 categories:
   - Kuřecí

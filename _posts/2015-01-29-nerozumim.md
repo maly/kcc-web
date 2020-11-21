@@ -4,7 +4,7 @@ title: Nerozumím
 date: 2015-01-29T08:00:41+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=765
+guid: https://kcc.misantrop.info/?p=765
 permalink: /2015/01/29/nerozumim/
 xyz_lnap:
   - "1"

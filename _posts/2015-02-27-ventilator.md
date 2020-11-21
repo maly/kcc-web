@@ -4,7 +4,7 @@ title: Ventilátor
 date: 2015-02-27T06:30:54+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=875
+guid: https://kcc.misantrop.info/?p=875
 permalink: /2015/02/27/ventilator/
 xyz_lnap:
   - "1"

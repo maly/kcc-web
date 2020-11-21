@@ -4,7 +4,7 @@ title: Závojnatky
 date: 2015-04-04T07:00:05+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1008
+guid: https://kcc.misantrop.info/?p=1008
 permalink: /2015/04/04/zavojnatky/
 xyz_lnap:
   - "1"

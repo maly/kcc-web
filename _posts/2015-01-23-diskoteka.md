@@ -4,14 +4,14 @@ title: Diskotéka
 date: 2015-01-23T08:00:16+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=749
+guid: https://kcc.misantrop.info/?p=749
 permalink: /2015/01/23/diskoteka/
 xyz_lnap:
   - "1"
 categories:
   - Kuřecí
 ---
-Dovolte mi další [diskžokejské moudro](http://kcc.uelectronics.info/2014/12/10/zahraj/ "Zahraj").
+Dovolte mi další [diskžokejské moudro](https://kcc.misantrop.info/2014/12/10/zahraj/ "Zahraj").
 
 Devadesátky byly v plným proudu a já pomáhal jednomu známému místnímu diskžokejovi s akcemi. Zapojovat, zvučit, obsluhovat světla, brát písničky na přání atd. Navíc jsme spolu pracovali v jednom podniku, tak jsme často šli spolu po ulici, třeba z oběda. Jednou nás potkaly nějaké dvě holky: &#8222;Ahoj, hele, budete v pátek hrát v N.? My jsme minule byly, ale teď o víkendu jsme nemohly, hele, ale fakt příště přijdem! A zahrajete nám ňáký dobrý ploužáky? Hele, takový to &#8211; ta da da, la la, hmmmm šú wap, máš to? To je supr písnička! Tak když to zahrajete, tak vás pozvem na panáka. Dáte si s náma, ne? Tak jo, tak ahoj!&#8220;
 

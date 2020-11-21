@@ -4,7 +4,7 @@ title: Zpravodaj
 date: 2014-11-08T07:00:44+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=438
+guid: https://kcc.misantrop.info/?p=438
 permalink: /2014/11/08/zpravodaj/
 xyz_lnap:
   - "1"

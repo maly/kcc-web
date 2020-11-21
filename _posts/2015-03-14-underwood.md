@@ -4,7 +4,7 @@ title: Underwood
 date: 2015-03-14T08:00:37+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=924
+guid: https://kcc.misantrop.info/?p=924
 permalink: /2015/03/14/underwood/
 xyz_lnap:
   - "1"

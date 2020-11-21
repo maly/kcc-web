@@ -4,7 +4,7 @@ title: Konec debat
 date: 2014-10-12T07:00:11+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=28
+guid: https://kcc.misantrop.info/?p=28
 permalink: /2014/10/12/konec-debat/
 xyz_lnap:
   - "1"

@@ -4,7 +4,7 @@ title: Souostroví
 date: 2015-03-15T08:00:26+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=926
+guid: https://kcc.misantrop.info/?p=926
 permalink: /2015/03/15/souostrovi/
 xyz_lnap:
   - "1"

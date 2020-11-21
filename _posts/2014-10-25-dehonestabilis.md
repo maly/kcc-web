@@ -4,7 +4,7 @@ title: Dehonestabilis
 date: 2014-10-25T07:00:16+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=383
+guid: https://kcc.misantrop.info/?p=383
 permalink: /2014/10/25/dehonestabilis/
 xyz_lnap:
   - "1"

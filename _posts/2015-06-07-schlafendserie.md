@@ -4,7 +4,7 @@ title: Schlafendserie
 date: 2015-06-07T07:00:19+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1323
+guid: https://kcc.misantrop.info/?p=1323
 permalink: /2015/06/07/schlafendserie/
 xyz_lnap:
   - "1"

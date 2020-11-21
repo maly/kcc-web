@@ -4,7 +4,7 @@ title: Smartphony
 date: 2015-06-15T07:00:48+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1280
+guid: https://kcc.misantrop.info/?p=1280
 permalink: /2015/06/15/smartphony/
 xyz_lnap:
   - "1"

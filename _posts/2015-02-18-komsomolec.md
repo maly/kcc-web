@@ -4,7 +4,7 @@ title: Komsomolec
 date: 2015-02-18T08:00:13+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=837
+guid: https://kcc.misantrop.info/?p=837
 permalink: /2015/02/18/komsomolec/
 xyz_lnap:
   - "1"

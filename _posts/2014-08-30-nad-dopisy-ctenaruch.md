@@ -4,7 +4,7 @@ title: Nad dopisy čtenářůch
 date: 2014-08-30T07:00:21+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=169
+guid: https://kcc.misantrop.info/?p=169
 permalink: /2014/08/30/nad-dopisy-ctenaruch/
 categories:
   - Kuřecí
@@ -28,7 +28,7 @@ Podle mého je 1984 jedna z nejslabších knih o totalitě. Čekal bych nějako
 _Ještě dáme jeden, slečno. Adresa bude: Laokoon, věštírna, Trója. Malá Asie, samozřejmě, ne ta u Vltavy! No a tomuhle napíšeme taky něco pěkného!_
 
 Podle mého je to jeden z nejslabších článků. Čekal bych nějakou trošku lepší analýzu dřevěných koní, než že máte čuch že to asi nevypadá že by to mělo vyjít.  
-<img loading="lazy" class="aligncenter wp-image-188 size-full" src="http://kcc.uelectronics.info/wp-content/uploads/sites/8/2014/08/vr.png" alt="vr" width="496" height="54" srcset="https://kcc.uelectronics.info/wp-content/uploads/sites/8/2014/08/vr.png 496w, https://kcc.uelectronics.info/wp-content/uploads/sites/8/2014/08/vr-300x32.png 300w" sizes="(max-width: 496px) 100vw, 496px" /> 
+<img loading="lazy" class="aligncenter wp-image-188 size-full" src="https://kcc.misantrop.info/wp-content/uploads/sites/8/2014/08/vr.png" alt="vr" width="496" height="54" srcset="https://kcc.misantrop.info/wp-content/uploads/sites/8/2014/08/vr.png 496w, https://kcc.misantrop.info/wp-content/uploads/sites/8/2014/08/vr-300x32.png 300w" sizes="(max-width: 496px) 100vw, 496px" /> 
 
 Boj za exaktní články, proti dojmům a neanalytickým pohledům, nebyl nikdy snadná věc!
 

@@ -4,7 +4,7 @@ title: Sexual harassment panda
 date: 2014-08-16T07:00:36+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=108
+guid: https://kcc.misantrop.info/?p=108
 permalink: /2014/08/16/sexual-harassment-panda/
 categories:
   - Kuřecí
@@ -13,7 +13,7 @@ Serou mě jedni i druzí.
 
 Čert mě může vzít, když slyším chlapa, co se chová k ženské jak machistické hovado. Za všechny takové ty &#8222;jen ženská&#8220;, &#8222;nojoženská&#8220; a &#8222;tamádudytyvole&#8220; mě hanba fackuje. O pohvizdování a pokřikování na kolemjdoucí ženy si myslím svoje &#8211; tedy že je vyhraženo příslušníkům horkokrevných jižních národů (a kdo jsem já, abych soudil jejich kulturu), Arabům a u nás těm profesím, co pracují dlouho na přímém slunci a vaří se jim kebule pod zeleným kloboučkem &#8211; tedy zedníkům, pokrývačům, sádrokartonářům, kopáčům a dlaždičům. Obecně pak ještě učňovské mládeži. Zkrátka těm mužům, od kterých, čest výjimkám, asi nějaké složité úvahy (&#8222;žena je taky člověk&#8220;) nelze očekávat. Neříkám, že každý zedník je křupan, to ani náhodou, ale klidně vám podepíšu, že je křupan každý, kdo pohvizduje na ženské nebo na ně pokřikuje nějaké řeči.
 
-Tolik bych tedy asi dodal k [téhle akci](http://www.huffingtonpost.com/2014/08/08/things-men-say-to-women-on-street-harassment_n_5659877.html). Ano, dámy, rozumným mužům je to protivné stejně jako vám, i když to není přímo na ně určené.
+Tolik bych tedy asi dodal k [téhle akci](https://www.huffingtonpost.com/2014/08/08/things-men-say-to-women-on-street-harassment_n_5659877.html). Ano, dámy, rozumným mužům je to protivné stejně jako vám, i když to není přímo na ně určené.
 
 Ale taky bych rád řekl, že mi pijou krev _profesionální hledačky diskriminace kdekoli_, co se nanominují do čehokoli a začnou povykovat o tom, že tam je nedostatečné zastoupení žen, ergo tedy sexismus, šovinismus a kdesi cosi. Jak se ukázalo nedávno v IT, stačí jedna hlasitá, a najednou se vynoří další, které vytáhnou strašidelné historky o tom, jak je někdo na IT konferenci obtěžoval (čti: ajťák je zval neobratně a neodbytně na rande &#8211; což není znakem genderové diskriminace a harašení, ale vedlejším projevem toho, že tahle cílová skupina nebývá obecně nejbystřejší v mezilidské komunikaci a sociálních interakcích), nebo jak je obtěžovalo to, že tam nejsou dostatečně zastoupeny ženy mezi spíkrama, nebo jak je obtěžovaly hahaftipné sexistické narážky v prezentacích přítomných pánů (čemuž tedy rozumím, a řadím to plně pod předchozí bod). Vzápětí se sešikují a začnou _požadovat_.
 

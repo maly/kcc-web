@@ -4,7 +4,7 @@ title: Literatura
 date: 2015-05-15T07:00:18+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1203
+guid: https://kcc.misantrop.info/?p=1203
 permalink: /2015/05/15/literatura/
 xyz_lnap:
   - "1"
@@ -81,7 +81,7 @@ Já tomu rozumím. Já jsem taky schopen to pak používat &#8211; ale **nejsem 
 
 Listuju tedy anglickými knihami. Některé jsou velmi podobné, ale naštěstí je jich spousta &#8222;živých&#8220;. Takových, co začnou kapitolou 1: PRINT &#8222;HELLO WORLD&#8220;, _to si napište do počítače, dobrý, ne? A počítat to taky umí, napište si PRINT 1+1. Zkuste si tam dát různá čísla. A teď různé operace. Násobení hvězdičkou. Dobrý, a teď zkuste závorky. A zkuste &#8222;2+3*4&#8220;. Vidíte, on to ten BASIC ví, že násobení má přednost, říká se tomu priorita, jen tak pro zajímavost tady jsou seřazené ty operátory, takže si teď zkuste třeba tohle a tohle a závorky sem a tam, vidíte&#8230;_ A jede se takhle. Seznam znaků, povolené identifikátory a seznam příkazů a funkcí jazyka jsou v takové knize přílohami A, B a C. Tam si to nalistuju, až budu vědět co a jak, a budu si potřebovat znalosti zasadit do kontextu. Ale do té doby budu opisovat příkazy do počítače, budu mít radost, že to něco dělá, ověřím si, jak se hledají chyby, budu nadšený, že to hraje, pípá, bliká, píše, počítá, přitom budu postupně zjišťovat, jak se co používá&#8230;
 
-Těm _druhým lidem_ tenhle přístup extrémně vadí. Prý produkuje _lamery_, co chtějí všechno jednoduše, a kvůli nim je ten nekvalitní software a bloat (více [viz zde na vlastní nebezpečí](http://kcc.uelectronics.info/2015/05/11/kamen/)). Pravý odborník si musí svoje znalosti protrpět a vysedět nad referenční příručkou. Kdepak nadšení nebo snad radost!
+Těm _druhým lidem_ tenhle přístup extrémně vadí. Prý produkuje _lamery_, co chtějí všechno jednoduše, a kvůli nim je ten nekvalitní software a bloat (více [viz zde na vlastní nebezpečí](https://kcc.misantrop.info/2015/05/11/kamen/)). Pravý odborník si musí svoje znalosti protrpět a vysedět nad referenční příručkou. Kdepak nadšení nebo snad radost!
 
 Kdepak Komenský!
 

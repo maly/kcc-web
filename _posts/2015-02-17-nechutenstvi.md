@@ -4,7 +4,7 @@ title: Nechutenství
 date: 2015-02-17T08:00:46+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=835
+guid: https://kcc.misantrop.info/?p=835
 permalink: /2015/02/17/nechutenstvi/
 xyz_lnap:
   - "1"

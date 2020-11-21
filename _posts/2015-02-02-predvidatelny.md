@@ -4,7 +4,7 @@ title: Předvídatelný
 date: 2015-02-02T08:00:45+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=767
+guid: https://kcc.misantrop.info/?p=767
 permalink: /2015/02/02/predvidatelny/
 xyz_lnap:
   - "1"

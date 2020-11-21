@@ -4,7 +4,7 @@ title: Propaganda
 date: 2014-08-15T07:00:30+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=75
+guid: https://kcc.misantrop.info/?p=75
 permalink: /2014/08/15/propaganda/
 categories:
   - Kuřecí

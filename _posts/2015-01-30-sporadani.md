@@ -4,7 +4,7 @@ title: Spořádaní
 date: 2015-01-30T08:00:07+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=771
+guid: https://kcc.misantrop.info/?p=771
 permalink: /2015/01/30/sporadani/
 xyz_lnap:
   - "1"

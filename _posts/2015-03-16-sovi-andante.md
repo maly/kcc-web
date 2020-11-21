@@ -4,7 +4,7 @@ title: Soví andante
 date: 2015-03-16T08:00:05+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=932
+guid: https://kcc.misantrop.info/?p=932
 permalink: /2015/03/16/sovi-andante/
 xyz_lnap:
   - "1"
@@ -33,4 +33,4 @@ Neohroženě jsem shodil batoh a vytáhnul z něj Reflex, který jsem si koupil 
 
 &#8212;
 
-Mnoho let se mí známí téhle historce smějí. Ale teď by jim mohlo sklapnout: [V Nizozemsku chytili výra, který v noci útočil na lidi](http://zpravy.idnes.cz/utoky-vyra-velkeho-v-nizozemsku-dow-/zahranicni.aspx?c=A150314_080434_zahranicni_jw)! (A možná by tam šel tištěný Reflex na odbyt!)
+Mnoho let se mí známí téhle historce smějí. Ale teď by jim mohlo sklapnout: [V Nizozemsku chytili výra, který v noci útočil na lidi](https://zpravy.idnes.cz/utoky-vyra-velkeho-v-nizozemsku-dow-/zahranicni.aspx?c=A150314_080434_zahranicni_jw)! (A možná by tam šel tištěný Reflex na odbyt!)

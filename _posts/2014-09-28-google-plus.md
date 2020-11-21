@@ -4,7 +4,7 @@ title: Google Plus
 date: 2014-09-28T07:00:51+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=58
+guid: https://kcc.misantrop.info/?p=58
 permalink: /2014/09/28/google-plus/
 xyz_lnap:
   - "1"

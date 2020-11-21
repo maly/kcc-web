@@ -4,7 +4,7 @@ title: Souostroví II
 date: 2015-07-26T07:00:28+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1510
+guid: https://kcc.misantrop.info/?p=1510
 permalink: /2015/07/26/souostrovi-ii/
 xyz_lnap:
   - "1"
@@ -241,4 +241,4 @@ Byla to fantazie na téma budoucí války. Z provizorních sněhových úkrytů 
 
 &#8212;
 
-_Pamatujte: Celý ten svinský systém stál na lži, teroru, propagandě, a jeho ekonomika intenzivně využívala práci otroků a nevolníků. Zavřít člověka mohli kdykoli za cokoli. Včetně odborníků &#8211; nechte odborníka zavřeného a po dvou letech v GULagu mu nabídněte, že může pracovat ve svém oboru. Ale samozřejmě, bude stále zavřený, jen bude pracovat v oboru, a bude mít lepší podmínky k životu. Peníze? Plat? Nač, vždyť mu dáte najíst a má kde spát! ([Sergej Pavlovič Koroljov je asi nejznámější příklad](http://www.kosmonautix.cz/2012/11/kriticke-momenty-kosmonautiky-11-dil/))_
+_Pamatujte: Celý ten svinský systém stál na lži, teroru, propagandě, a jeho ekonomika intenzivně využívala práci otroků a nevolníků. Zavřít člověka mohli kdykoli za cokoli. Včetně odborníků &#8211; nechte odborníka zavřeného a po dvou letech v GULagu mu nabídněte, že může pracovat ve svém oboru. Ale samozřejmě, bude stále zavřený, jen bude pracovat v oboru, a bude mít lepší podmínky k životu. Peníze? Plat? Nač, vždyť mu dáte najíst a má kde spát! ([Sergej Pavlovič Koroljov je asi nejznámější příklad](https://www.kosmonautix.cz/2012/11/kriticke-momenty-kosmonautiky-11-dil/))_

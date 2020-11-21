@@ -4,7 +4,7 @@ title: Trololomix
 date: 2014-11-07T07:00:10+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=446
+guid: https://kcc.misantrop.info/?p=446
 permalink: /2014/11/07/trololomix/
 xyz_lnap:
   - "1"

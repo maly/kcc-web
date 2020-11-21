@@ -4,7 +4,7 @@ title: Chloroform
 date: 2015-07-08T07:00:57+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1440
+guid: https://kcc.misantrop.info/?p=1440
 permalink: /2015/07/08/chloroform/
 xyz_lnap:
   - "1"

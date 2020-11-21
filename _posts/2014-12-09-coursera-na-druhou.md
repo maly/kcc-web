@@ -4,14 +4,14 @@ title: Coursera ^ 2
 date: 2014-12-09T08:00:02+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=551
+guid: https://kcc.misantrop.info/?p=551
 permalink: /2014/12/09/coursera-na-druhou/
 xyz_lnap:
   - "1"
 categories:
   - Kuřecí
 ---
-Psal jsem tu, že [jsem se zapsal na Courseře](http://kcc.uelectronics.info/2014/10/18/coursera/ "Coursera") do kurzu Programovací jazyky. Spíš tak jako ze zvědavosti.
+Psal jsem tu, že [jsem se zapsal na Courseře](https://kcc.misantrop.info/2014/10/18/coursera/ "Coursera") do kurzu Programovací jazyky. Spíš tak jako ze zvědavosti.
 
 Kurz právě končí, odevzdal jsem poslední úkoly a složil závěrečný test. Spolu se mnou ten samý test absolvoval i pan Vembloud. Občas jsme si psali, jak že nám to jde a co nás zaujalo. No a tuhle mi napsal: _Co se takhle zapsat do [kurzu na Rko](https://class.coursera.org/rprog-016), abychom nevypadli ze cviku?_
 

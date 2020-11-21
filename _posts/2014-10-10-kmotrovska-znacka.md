@@ -4,7 +4,7 @@ title: Kmotrovská značka
 date: 2014-10-10T07:00:05+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=298
+guid: https://kcc.misantrop.info/?p=298
 permalink: /2014/10/10/kmotrovska-znacka/
 xyz_lnap:
   - "1"

@@ -4,7 +4,7 @@ title: Student Agency
 date: 2014-09-04T07:00:13+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=140
+guid: https://kcc.misantrop.info/?p=140
 permalink: /2014/09/04/student-agency/
 categories:
   - Kuřecí

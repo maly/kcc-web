@@ -4,7 +4,7 @@ title: Antibiotika
 date: 2014-08-19T07:00:43+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=121
+guid: https://kcc.misantrop.info/?p=121
 permalink: /2014/08/19/antibiotika/
 categories:
   - Kuřecí

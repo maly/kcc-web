@@ -4,7 +4,7 @@ title: Důvěryhodný
 date: 2014-10-13T07:00:42+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=327
+guid: https://kcc.misantrop.info/?p=327
 permalink: /2014/10/13/duveryhodny/
 xyz_lnap:
   - "1"

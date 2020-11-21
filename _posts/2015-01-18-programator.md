@@ -4,7 +4,7 @@ title: Programátor
 date: 2015-01-18T08:00:21+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=716
+guid: https://kcc.misantrop.info/?p=716
 permalink: /2015/01/18/programator/
 xyz_lnap:
   - "1"

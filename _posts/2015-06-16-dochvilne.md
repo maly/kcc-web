@@ -4,7 +4,7 @@ title: Dochvilně
 date: 2015-06-16T07:00:53+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1349
+guid: https://kcc.misantrop.info/?p=1349
 permalink: /2015/06/16/dochvilne/
 xyz_lnap:
   - "1"
@@ -21,7 +21,7 @@ Okej. Minulou středu mi po ránu volali z ČEZu. Chtěli nějaké informace a r
 
 Máme úterý ráno. A co myslíte? Nikdo!
 
-Jako ale už fakt, kruci! [Telefonování](http://kcc.uelectronics.info/2015/06/13/telefon/) je opravdu protivné asynchronní vyrušení, tak mějte aspoň tolik taktu, že zavoláte v domluvený čas! Prý to nejde, prý telefonisti mají zadané nějaké rozmezí, informaci jako &#8222;Zavolat po 15:00&#8220; &#8211; a víte co? **Mě to právě přestalo zajímat!**
+Jako ale už fakt, kruci! [Telefonování](https://kcc.misantrop.info/2015/06/13/telefon/) je opravdu protivné asynchronní vyrušení, tak mějte aspoň tolik taktu, že zavoláte v domluvený čas! Prý to nejde, prý telefonisti mají zadané nějaké rozmezí, informaci jako &#8222;Zavolat po 15:00&#8220; &#8211; a víte co? **Mě to právě přestalo zajímat!**
 
 Kdybych jako kokot ve tři nezačal čekat, radši nešel do sklepa, nešel nic vařit, abych byl na telefonu, tak mě to možná nevytáčí. Ale já čekám, protože stejně nemá smysl nic začínat, jen by mě přerušili. Tak prostě nedělám nic. Třeba půl hodiny. Nevím, kolik stojí půlhodina vašeho času, ale půlhodina mého času je setsakra drahá. Natož na to, aby s ním takhle plýtval nějaký šulín z callcentra!
 

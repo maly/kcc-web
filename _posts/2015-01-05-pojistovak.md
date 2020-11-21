@@ -4,7 +4,7 @@ title: Pojišťovák
 date: 2015-01-05T08:00:22+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=657
+guid: https://kcc.misantrop.info/?p=657
 permalink: /2015/01/05/pojistovak/
 xyz_lnap:
   - "1"

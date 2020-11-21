@@ -4,7 +4,7 @@ title: Imunizace
 date: 2014-12-23T08:00:57+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=586
+guid: https://kcc.misantrop.info/?p=586
 permalink: /2014/12/23/imunizace/
 xyz_lnap:
   - "1"

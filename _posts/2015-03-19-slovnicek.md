@@ -4,7 +4,7 @@ title: Slovníček
 date: 2015-03-19T08:00:45+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=942
+guid: https://kcc.misantrop.info/?p=942
 permalink: /2015/03/19/slovnicek/
 xyz_lnap:
   - "1"
@@ -15,7 +15,7 @@ Ta slova kdysi cosi znamenala. Pak je bolševici zohýbali k nepoznání, tak, �
 
 ## Fašismus.
 
-Mezi fašismem a nacismem byl rozdíl. V Německu nacismus, v Itálii fašismus, jen [marxistům vše rovno](http://cs.wikipedia.org/wiki/Fa%C5%A1ismus), pro ně byli všichni od kapitalistů _fašisti_. Válčili s fašisty, Němci byli fašisti, Západ fašistický, kapitalismus fašistický, USA fašistické, dneska je fašistická Ukrajina. Spolehlivé detekční slovo. Zbytek světa říká tomu, co se dělo v Německu, nacismus, jen v Rusku a v Ruskem indoktrinovaných kruzích to je _fašismus_. Tohle slovo ve spojení s čímkoli &#8222;Rusku nepříznivým&#8220; je tak specifický příznak, že až na výjimky víte přesně, kdo takříkajíc _vedl autorovi tužku_.
+Mezi fašismem a nacismem byl rozdíl. V Německu nacismus, v Itálii fašismus, jen [marxistům vše rovno](https://cs.wikipedia.org/wiki/Fa%C5%A1ismus), pro ně byli všichni od kapitalistů _fašisti_. Válčili s fašisty, Němci byli fašisti, Západ fašistický, kapitalismus fašistický, USA fašistické, dneska je fašistická Ukrajina. Spolehlivé detekční slovo. Zbytek světa říká tomu, co se dělo v Německu, nacismus, jen v Rusku a v Ruskem indoktrinovaných kruzích to je _fašismus_. Tohle slovo ve spojení s čímkoli &#8222;Rusku nepříznivým&#8220; je tak specifický příznak, že až na výjimky víte přesně, kdo takříkajíc _vedl autorovi tužku_.
 
 ## Mír.
 
@@ -27,7 +27,7 @@ Totiž &#8222;budování míru&#8220; nebo &#8222;boj za mír&#8220;. Okřídlen
 
 ## Zaprodanci.
 
-Viz výše. Všichni ti, kteří nějak vystupují proti bolševikům. Bolševismus razí svoje bipolární vidění: Buď jsou naši, kovaní, nebo jsou proti nám! A protože naše učení je vědecké (nezpomínejte na tohle slovo!), tak každý rozumný přeci musí vidět, že je správné. Kdo by tak mohl být proti? No, jen ti, co se zaprodali _dolaru_, co _ve fašistickém žoldu úmyslně škodí_&#8230; Všimněte si, že bolševik nepřipustí, že by mohl být protivný někomu jaksi z podstaty, takříkajíc zadarmo! Ne, ti lidé musí být naverbovaní a zaplacení, jinak to není možné. Tak tomu bolšán věří a nedovede si představit jiný důvod, protože sám [jiný nezná](http://www.misantrop.info/a-kosti-a-kosti-a-tema-on-nas-hosti/).
+Viz výše. Všichni ti, kteří nějak vystupují proti bolševikům. Bolševismus razí svoje bipolární vidění: Buď jsou naši, kovaní, nebo jsou proti nám! A protože naše učení je vědecké (nezpomínejte na tohle slovo!), tak každý rozumný přeci musí vidět, že je správné. Kdo by tak mohl být proti? No, jen ti, co se zaprodali _dolaru_, co _ve fašistickém žoldu úmyslně škodí_&#8230; Všimněte si, že bolševik nepřipustí, že by mohl být protivný někomu jaksi z podstaty, takříkajíc zadarmo! Ne, ti lidé musí být naverbovaní a zaplacení, jinak to není možné. Tak tomu bolšán věří a nedovede si představit jiný důvod, protože sám [jiný nezná](https://www.misantrop.info/a-kosti-a-kosti-a-tema-on-nas-hosti/).
 
 > V seriálu Bigbít vyprávěla socioložka Dana Němcová, jak po masakru mániček v Budějovicích kladli vyšetřovatelé pořád stejnou otázku: _Neříkejte nám, že se prostě jen tak sešlo 400 lidí kvůli koncertu! To musí být spiknutí, to musí být nějak organizované – když my chceme někam dostat 400 lidí, musíme zapojit aparát z půlky republiky!_
 

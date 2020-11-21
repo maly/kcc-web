@@ -4,7 +4,7 @@ title: Osvobození
 date: 2015-05-07T07:00:44+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1163
+guid: https://kcc.misantrop.info/?p=1163
 permalink: /2015/05/07/osvobozeni/
 xyz_lnap:
   - "1"
@@ -41,7 +41,7 @@ A Rudá armáda? Šla ve dvou vlnách &#8211; v té první vojáci, a v té druh
 > 
 > Po celý rok 1946 a 1947 se valil na ostrovy Gulag veliký proud tentokrát skutečných nepřátel sovětské moci (vlasovců, Krasnovových kozáků a mohamedánů z nacionálních vojenských útvarů, které se vytvořily a bojovaly na Hitlerově straně) – nepřátel někdy přesvědčených, jindy nedobrovolných. Spolu s nimi byl postižen asi milión sovětských válečných uprchlíků, civilistů všeho věku a obojího pohlaví, kterým se podařilo utéci na území spojenců, ale které spojenecké vlády v letech 1946-47 zákeřné vydali do rukou Sovětů. (&#8230;) Neustále tekl proud benderovců, kteří byli v rozhořčeních bojích vyháněni z lesů. Současně dostávali deset a pět let lágru a vyhnanství všichni vesničtí obyvatelé západní Ukrajiny, kteří přišli nějak s partyzány do styku: kdo je nechal přespat, kdo jim dal jednou najíst, kdo je neudal. Asi v roce 1950 začal i proud žen benderovců – dávali jim za neudání po desítce, aby tím rychleji dorazili jejich muže.
 
-Mně to nikdy neřekli. Vám ano? Něco jsme tušili&#8230; o tom, že pražskému povstání vydatně pomohli vlasovci, kteří utíkali před Rudou armádou, jsem tak nějak trošku věděl od konce 80. let, ale až teď mám čas (a taky trochu i potřebu) vědět víc. Asi to přišlo správně, v tu samou dobu, kdy se hovoří o osvobození a někteří znovu vytahují ty příběhy tak, jak nám je komunistická propaganda líčila. Třeba o tom, že &#8222;Sovětský Svaz musel vyslat armádu do Polska, aby tím reagoval na německý vpád&#8220; a tak. (Pokud si to chcete přečíst a máte na to žaludek, tak si najděte libovolné &#8222;svobodné necenzurované stránky&#8220;, dozvíte se věci nevídané!) [Velmi trefně to předvedli teď němečtí diplomaté](http://zpravy.idnes.cz/rusti-komuniste-obdarovavani-velvyslancu-f23-/zahranicni.aspx?c=A150506_064118_zahranicni_wlk): když přišla komunistická delegace předat připomínku porážky nacismu, věnovali jim kopii paktu Molotov-Ribbentrop se vzkazem, že i to patří do německo-ruských dějin!
+Mně to nikdy neřekli. Vám ano? Něco jsme tušili&#8230; o tom, že pražskému povstání vydatně pomohli vlasovci, kteří utíkali před Rudou armádou, jsem tak nějak trošku věděl od konce 80. let, ale až teď mám čas (a taky trochu i potřebu) vědět víc. Asi to přišlo správně, v tu samou dobu, kdy se hovoří o osvobození a někteří znovu vytahují ty příběhy tak, jak nám je komunistická propaganda líčila. Třeba o tom, že &#8222;Sovětský Svaz musel vyslat armádu do Polska, aby tím reagoval na německý vpád&#8220; a tak. (Pokud si to chcete přečíst a máte na to žaludek, tak si najděte libovolné &#8222;svobodné necenzurované stránky&#8220;, dozvíte se věci nevídané!) [Velmi trefně to předvedli teď němečtí diplomaté](https://zpravy.idnes.cz/rusti-komuniste-obdarovavani-velvyslancu-f23-/zahranicni.aspx?c=A150506_064118_zahranicni_wlk): když přišla komunistická delegace předat připomínku porážky nacismu, věnovali jim kopii paktu Molotov-Ribbentrop se vzkazem, že i to patří do německo-ruských dějin!
 
 Ano, osvobodili, jeden každý nasadil svůj vlastní život a patří jim za to dík. Ale promiňte, nedokážu tu být bezpodmínečně vděčný:
 

@@ -4,7 +4,7 @@ title: Intelektuálno
 date: 2015-07-28T07:00:23+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1512
+guid: https://kcc.misantrop.info/?p=1512
 permalink: /2015/07/28/intelektualno/
 xyz_lnap:
   - "1"
@@ -21,7 +21,7 @@ No a v téhle diskusi se objevil příspěvek, který mě dojal svou přiznanou 
 
 > Premyslim pokazde, kdyz ctu tyto znale, vsimave, chytre, moudre komentare, uvahy a kritiky mnoha lidi k cemu je to dobre. At uz tady nebo kdekoli jinde na netu. Proc tim ztracite vsichni cas? Opravdu se tak nudite a nemate co delat? Nebo potrebujete sami sobe nekteri dokazat jak jste chytri a vsimavi a masirovat sve filosoficke ego? Nebo proc? Tady s tim nic neudelate prece&#8230;
 
-Ta situace byla krásná. Ten člověk vstoupil do diskuse, kde se lidé bavili hypotetickou otázkou a rozvíjeli svou fantazii, logické uvažování, hráli si s hypotézami, a zeptal se, proč to dělají (stylem [Vaše starosti&#8230;](http://kcc.misantrop.info/2014/11/26/starosti/)) Ptal se, proč někteří přemýšlí, uvažují, kladou si otázky a hledají na ně odpovědi. Ptal se, proč někdo _ztrácí čas_ tříbením svých schopností. A dokonce to celé nadepsal, že &#8222;o tom přemýšlí&#8220; a napadly ho jen dva výklady: Lidé se buď nudí, nebo si chtějí namasírovat ego a něco si dokazovat.
+Ta situace byla krásná. Ten člověk vstoupil do diskuse, kde se lidé bavili hypotetickou otázkou a rozvíjeli svou fantazii, logické uvažování, hráli si s hypotézami, a zeptal se, proč to dělají (stylem [Vaše starosti&#8230;](https://kcc.misantrop.info/2014/11/26/starosti/)) Ptal se, proč někteří přemýšlí, uvažují, kladou si otázky a hledají na ně odpovědi. Ptal se, proč někdo _ztrácí čas_ tříbením svých schopností. A dokonce to celé nadepsal, že &#8222;o tom přemýšlí&#8220; a napadly ho jen dva výklady: Lidé se buď nudí, nebo si chtějí namasírovat ego a něco si dokazovat.
 
 &#8222;Nebo proč?&#8220; No, já třeba proto, že prostřednictvím téhle debaty nahlížím na svět, na naši společnost, na myšlení dalších lidí, na naši dobu, a vlastně i na sebe, což jsou pro mne docela důležité hodnoty. Ale chápu (hlavně i díky tomu, že nad věcmi přemýšlím), že pro někoho nemá tohle poznání pražádnou hodnotu.
 

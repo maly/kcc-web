@@ -4,7 +4,7 @@ title: Nemocnice
 date: 2015-05-01T07:00:58+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1133
+guid: https://kcc.misantrop.info/?p=1133
 permalink: /2015/05/01/nemocnice/
 xyz_lnap:
   - "1"

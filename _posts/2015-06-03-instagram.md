@@ -4,7 +4,7 @@ title: Instagram
 date: 2015-06-03T07:00:52+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1313
+guid: https://kcc.misantrop.info/?p=1313
 permalink: /2015/06/03/instagram/
 xyz_lnap:
   - "1"

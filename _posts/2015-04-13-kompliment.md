@@ -4,7 +4,7 @@ title: Kompliment
 date: 2015-04-13T07:00:39+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1032
+guid: https://kcc.misantrop.info/?p=1032
 permalink: /2015/04/13/kompliment/
 xyz_lnap:
   - "1"

@@ -4,14 +4,14 @@ title: Denacifikace
 date: 2015-02-25T08:00:19+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=864
+guid: https://kcc.misantrop.info/?p=864
 permalink: /2015/02/25/denacifikace/
 xyz_lnap:
   - "1"
 categories:
   - Kuřecí
 ---
-Sedí frau [Jöckel](http://cs.wikipedia.org/wiki/Heinrich_J%C3%B6ckel) v parlamentu za Národně-Socialistickou Stranu Německých Pracujících. Píše se rok 1970&#8230;
+Sedí frau [Jöckel](https://cs.wikipedia.org/wiki/Heinrich_J%C3%B6ckel) v parlamentu za Národně-Socialistickou Stranu Německých Pracujících. Píše se rok 1970&#8230;
 
 Absurdní?
 

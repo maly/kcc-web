@@ -4,7 +4,7 @@ title: Paušalizace
 date: 2014-09-11T07:00:47+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=217
+guid: https://kcc.misantrop.info/?p=217
 permalink: /2014/09/11/pausalizace/
 categories:
   - Kuřecí

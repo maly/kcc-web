@@ -4,7 +4,7 @@ title: Odpočinek
 date: 2014-09-15T07:00:28+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=228
+guid: https://kcc.misantrop.info/?p=228
 permalink: /2014/09/15/odpocinek/
 categories:
   - Kuřecí

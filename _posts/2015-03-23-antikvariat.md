@@ -4,7 +4,7 @@ title: Antikvariát
 date: 2015-03-23T08:00:26+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=958
+guid: https://kcc.misantrop.info/?p=958
 permalink: /2015/03/23/antikvariat/
 xyz_lnap:
   - "1"

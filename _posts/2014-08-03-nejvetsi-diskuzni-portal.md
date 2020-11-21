@@ -4,7 +4,7 @@ title: Největší diskuzní portál
 date: 2014-08-03T08:40:33+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=13
+guid: https://kcc.misantrop.info/?p=13
 permalink: /2014/08/03/nejvetsi-diskuzni-portal/
 categories:
   - Kuřecí

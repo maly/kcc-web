@@ -4,7 +4,7 @@ title: Rozčilení
 date: 2014-09-01T07:00:55+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=196
+guid: https://kcc.misantrop.info/?p=196
 permalink: /2014/09/01/rozcileni/
 categories:
   - Kuřecí

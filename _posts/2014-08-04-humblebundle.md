@@ -4,7 +4,7 @@ title: Humblebundle
 date: 2014-08-04T10:33:53+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=24
+guid: https://kcc.misantrop.info/?p=24
 permalink: /2014/08/04/humblebundle/
 categories:
   - Kuřecí
@@ -15,4 +15,4 @@ A mě teď napadlo udělat normální skladiště těhle &#8222;přebytků&#8220
 
 No a než to vymyslím, tak se holt budu ptát na Twitteru.
 
-<a id="rc-115bc3281" class="rafl" href="http://www.rafflecopter.com/rafl/display/115bc3281/" rel="nofollow">a Rafflecopter giveaway</a>
+<a id="rc-115bc3281" class="rafl" href="https://www.rafflecopter.com/rafl/display/115bc3281/" rel="nofollow">a Rafflecopter giveaway</a>

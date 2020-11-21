@@ -4,12 +4,12 @@ title: Marmelády
 date: 2014-08-10T07:00:43+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=67
+guid: https://kcc.misantrop.info/?p=67
 permalink: /2014/08/10/marmelady/
 categories:
   - Kuřecí
 ---
-Paní vaří marmelády pro radost sobě i blízkým a [chtěla to trošku zvětšit](http://rokjinak.blog.idnes.cz/c/416894/Chtela-jsem-prodavat-marmelady-aneb-proc-nemuzeme-pomalu-rust.html). Trošku, ne z toho dělat hned Frutu. Ale narazila. Když chce legalizovat prodej doma uvařených marmelád, tak &#8211; dle litery zákona &#8211; musí splnit stejné požadavky jako ta Fruta. Což se jí zdá na hlavu padlé. A ono to taky na hlavu padlé je.
+Paní vaří marmelády pro radost sobě i blízkým a [chtěla to trošku zvětšit](https://rokjinak.blog.idnes.cz/c/416894/Chtela-jsem-prodavat-marmelady-aneb-proc-nemuzeme-pomalu-rust.html). Trošku, ne z toho dělat hned Frutu. Ale narazila. Když chce legalizovat prodej doma uvařených marmelád, tak &#8211; dle litery zákona &#8211; musí splnit stejné požadavky jako ta Fruta. Což se jí zdá na hlavu padlé. A ono to taky na hlavu padlé je.
 
 Tak vysvětlila úřadu, že není _zeleninokombinát_, že je malovýroba, ale úřad dál trval na oddělených prostorách pro to a ono a &#8230; zkrátka ne. Ani že by úředníci chtěli vyjít vstříc&#8230;
 
@@ -23,4 +23,4 @@ Ale abych byl spravedlivý: nemalý podíl viny na tom má ochranitelský stát,
 
 A taková je, moji drazí, realita. EU směrnice třeba říká, že má být v potravinářských provozech tekoucí voda, kterou lze zapnout a vypnout bez toho, aby člověk matlal po kohoutku rukou. Požadavek logický. Stačila by třeba páková, co si zapnete loktem. Proč se v české legislativě objevily &#8222;bezdotykové baterie&#8220;? Inu&#8230; to víte&#8230; A tak je možné, že v Anglii přijde úředník zkontrolovat, jestli máte tam, co hodláte vařit marmeládu, čisto a nepromenádují se vám tam potkani a zbytek holt nechá na vašem uvážení, protože předpokládá, že nejste blbí a že když něco prodáváte, tak nebudete prodávat šmejd, jelikož vám záleží na vašem dobrém jménu, které byste si špatným výrobkem zkazili, a to přeci nechcete.
 
-Teď jak to píšu, tak si říkám, že je to hodně podobné těm [revizorům](http://kcc.uelectronics.info/2014/08/05/revizor/ "Revizor"), jen z druhé strany, ze strany _dobra_.
+Teď jak to píšu, tak si říkám, že je to hodně podobné těm [revizorům](https://kcc.misantrop.info/2014/08/05/revizor/ "Revizor"), jen z druhé strany, ze strany _dobra_.

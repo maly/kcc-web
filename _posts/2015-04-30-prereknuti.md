@@ -4,7 +4,7 @@ title: Přeřeknutí
 date: 2015-04-30T07:00:53+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1126
+guid: https://kcc.misantrop.info/?p=1126
 permalink: /2015/04/30/prereknuti/
 xyz_lnap:
   - "1"

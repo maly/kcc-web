@@ -4,7 +4,7 @@ title: Nekorektní
 date: 2015-06-30T07:00:36+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1396
+guid: https://kcc.misantrop.info/?p=1396
 permalink: /2015/06/30/nekorektni/
 xyz_lnap:
   - "1"

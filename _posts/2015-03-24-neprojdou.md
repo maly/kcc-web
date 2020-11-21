@@ -4,7 +4,7 @@ title: Neprojdou!
 date: 2015-03-24T08:00:43+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=960
+guid: https://kcc.misantrop.info/?p=960
 permalink: /2015/03/24/neprojdou/
 xyz_lnap:
   - "1"

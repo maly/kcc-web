@@ -4,7 +4,7 @@ title: Vychytávky
 date: 2015-07-22T07:00:01+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1491
+guid: https://kcc.misantrop.info/?p=1491
 permalink: /2015/07/22/vychytavky/
 xyz_lnap:
   - "1"

@@ -4,14 +4,14 @@ title: Vysvětlení
 date: 2014-12-22T08:00:33+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=562
+guid: https://kcc.misantrop.info/?p=562
 permalink: /2014/12/22/vysvetleni/
 xyz_lnap:
   - "1"
 categories:
   - Kuřecí
 ---
-Tuhle mi na Ask.fm psal kdosi, že čte o [Panwerichovi](http://www.misantrop.info/panwerich/) a že to nechápe. Jestli jako každej, kdo použije jeho citát, páč by to líp sám nevymyslel, ale aspoň zná zdroj, je debil? Napsal jsem mu, že má pravdu, že to opravdu nepochopil.
+Tuhle mi na Ask.fm psal kdosi, že čte o [Panwerichovi](https://www.misantrop.info/panwerich/) a že to nechápe. Jestli jako každej, kdo použije jeho citát, páč by to líp sám nevymyslel, ale aspoň zná zdroj, je debil? Napsal jsem mu, že má pravdu, že to opravdu nepochopil.
 
 Dotyčný zareagoval: &#8222;Tak mi to vysvětli!&#8220;
 

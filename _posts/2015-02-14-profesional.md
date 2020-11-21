@@ -4,7 +4,7 @@ title: Profesionál
 date: 2015-02-14T08:00:10+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=823
+guid: https://kcc.misantrop.info/?p=823
 permalink: /2015/02/14/profesional/
 xyz_lnap:
   - "1"

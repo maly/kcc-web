@@ -4,14 +4,14 @@ title: Zákazníci
 date: 2015-05-13T07:00:10+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1177
+guid: https://kcc.misantrop.info/?p=1177
 permalink: /2015/05/13/zakaznici/
 xyz_lnap:
   - "1"
 categories:
   - Kuřecí
 ---
-Z cyklu &#8222;ranní nedělní diskuse nad [KCC](http://kcc.uelectronics.info/2015/05/10/kity/)&#8222;. A takhle my si tady žijem.
+Z cyklu &#8222;ranní nedělní diskuse nad [KCC](https://kcc.misantrop.info/2015/05/10/kity/)&#8222;. A takhle my si tady žijem.
 
 &#8212;
 

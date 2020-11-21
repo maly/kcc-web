@@ -4,7 +4,7 @@ title: Blogování
 date: 2014-10-27T07:00:48+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=341
+guid: https://kcc.misantrop.info/?p=341
 permalink: /2014/10/27/blogovani/
 xyz_lnap:
   - "1"
@@ -19,7 +19,7 @@ Stalo by se to bez blogů? Těžko říct, spíš ne. V začátcích se velká m
 
 Blogům velmi pomohl nástup Google. Blogy měly, na rozdíl od tradičních webů, líp strukturovaný a častěji aktualizovaný obsah, takže je Google měl &#8222;radši&#8220;. Zároveň (alespoň ty české) fungovaly jako &#8222;melting pot&#8220;, kde si celá jedna generace webdesignérů, webdeveloperů, UX a podobných prakticky vyzkoušela všechny možné experimenty se SEO, s XHTML, CSS a s podobnými oblastmi. Dneska tyhle zkušenosti za krvavé peníze prodávají klientům. 🙂
 
-Blogy přinesly kulturu vzájemného odkazování. V extrémní variantě to byl takzvaný &#8222;blogroll&#8220;, tedy seznam doporučených odkazů, a vyhození nebo přidání odkazu do tohoto seznamu na nějakém blogu vyvolalo leckdy sáhodlouhé diskuse. Na druhou stranu srovnejte situaci se &#8222;zpravodajskými weby&#8220;, které v ČR [neodkážou](http://www.misantrop.info/online-media-a-odkazy-kapitola-68/), kdyby čert na koze jezdil&#8230;
+Blogy přinesly kulturu vzájemného odkazování. V extrémní variantě to byl takzvaný &#8222;blogroll&#8220;, tedy seznam doporučených odkazů, a vyhození nebo přidání odkazu do tohoto seznamu na nějakém blogu vyvolalo leckdy sáhodlouhé diskuse. Na druhou stranu srovnejte situaci se &#8222;zpravodajskými weby&#8220;, které v ČR [neodkážou](https://www.misantrop.info/online-media-a-odkazy-kapitola-68/), kdyby čert na koze jezdil&#8230;
 
 Takže minimálně v ČR to máme:
 

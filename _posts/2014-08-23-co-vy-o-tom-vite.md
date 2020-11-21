@@ -4,7 +4,7 @@ title: Co vy o tom víte?
 date: 2014-08-23T07:00:52+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=158
+guid: https://kcc.misantrop.info/?p=158
 permalink: /2014/08/23/co-vy-o-tom-vite/
 categories:
   - Kuřecí

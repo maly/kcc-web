@@ -4,7 +4,7 @@ title: Průkopníci
 date: 2015-05-02T07:00:06+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1099
+guid: https://kcc.misantrop.info/?p=1099
 permalink: /2015/05/02/prukopnici/
 xyz_lnap:
   - "1"

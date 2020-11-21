@@ -4,14 +4,14 @@ title: Slátanina
 date: 2015-03-06T08:00:30+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=898
+guid: https://kcc.misantrop.info/?p=898
 permalink: /2015/03/06/slatanina/
 xyz_lnap:
   - "1"
 categories:
   - Kuřecí
 ---
-(Upravená verze [vyšla na IHNED.cz](http://nazory.ihned.cz/komentare/c1-65226380-jak-goebbels-preladil-housle-na-440-hertzu-a-jine-nesmysly))
+(Upravená verze [vyšla na IHNED.cz](https://nazory.ihned.cz/komentare/c1-65226380-jak-goebbels-preladil-housle-na-440-hertzu-a-jine-nesmysly))
 
 Znám to slovo, co bych neznal, ale až tuhle mě napadlo, že to je český překlad slova &#8222;patchwork&#8220;. Ale kdo by se staral o patchwork, když může vibrovat&#8230;
 
@@ -53,7 +53,7 @@ A já myslel, že s vývojem hudby pro masovou hysterii vznikly boybandy, vulgo 
 
 > Standartní hudební ladění bylo ustanoveno na A= 440Hz v roce 1939 tuto frekvenci legalizoval Goebbles
 
-Tak se tady uklidníme&#8230; Pšt&#8230; P-Š-T! Prosím, klid, a budeme si společně vizualizovat scénku, jak _Goebbles (sic!) legalizuje frekvenci komorního A na hodnotu 440 hertzů_, ano? Přichází do Reichstagu, všichni hajlují, a on prohlašuje: &#8222;Zítra&#8230; vytvoříme protektorát Böhmen und Mähren&#8230; a přeladíte si housle na 440 Hz&#8230; Kdo přeladí na jinou frekvenci, třeba na 442 nebo na Londýn, bude zastřelen!&#8220; Ovace, sláva Vůdci, válka může propuknout, bo [máme přeladěno](http://www.roelhollander.eu/en/tuning-frequency/goebbels-and-440/)!
+Tak se tady uklidníme&#8230; Pšt&#8230; P-Š-T! Prosím, klid, a budeme si společně vizualizovat scénku, jak _Goebbles (sic!) legalizuje frekvenci komorního A na hodnotu 440 hertzů_, ano? Přichází do Reichstagu, všichni hajlují, a on prohlašuje: &#8222;Zítra&#8230; vytvoříme protektorát Böhmen und Mähren&#8230; a přeladíte si housle na 440 Hz&#8230; Kdo přeladí na jinou frekvenci, třeba na 442 nebo na Londýn, bude zastřelen!&#8220; Ovace, sláva Vůdci, válka může propuknout, bo [máme přeladěno](https://www.roelhollander.eu/en/tuning-frequency/goebbels-and-440/)!
 
 > Základní výzkum ukázal, že hudba s frekvencí A=440Hz vytváří konflikt s energetickými centry &#8211; čakrami od srdeční dolů ke kořenové. Naopak čakry nad srdcem jsou stimulovány. Vibrace stimulují ego a levou půlku mozku &#8211; potlačují tak srdce-mysl, intuici a kreativitu.
 
@@ -66,7 +66,7 @@ Ještě by si mohli ezoterici ujasnit to číslování. Jinde píšou, že sprá
 
 > Posvátné frekvence se najdou po celém světě v každém náboženství jako nejstarší použití v ceremoniích v sériích tonů k pozvednutí vibrací shromáždění k duchovní úrovni. Doposud vykopané prastaré egyptské nástroje jsou většinou naladěné an A=432Hz. Ve starém Řecku hráli na nástroje nalděné na A=432Hz. Klasičtí skladatelé zakládali svojí hudbu na přirozené vibraci A=432Hz (říká se jí Verdiho naladění). Většina západní hudby současnosti, a to včetně New Age hudby, je naladěná na nepřirozenou A=440Hz. Rozdíl mezi A=440Hz a A=432Hz je jen 8 vibrací za sekundu, ale i tak je ji lidské vědomí schopno vnímat.
 
-Viz výše: [Leda kulový](http://en.wikipedia.org/wiki/Concert_pitch)!
+Viz výše: [Leda kulový](https://en.wikipedia.org/wiki/Concert_pitch)!
 
 > Při tvoření alikvotních tonů, jako 72Hz (9x8Hz), 144Hz (18x 8Hz) a 432Hz atd. můžeme synchronizovat hudbu v binaural (zvuk nahrává na dva mikrofony, aby se při poslechu vytvořil 3D efekt, funguje jen při přehrávání přes sluchátka) 8Hz k uvědomění si orchestru našich vlastních myšlenek v katedrále naší mysli. Taková hudební harmonie alikvotních tonů může rezonovat a nahrávat se do geometrické posloupnosti a rytmu, které se obecně shodují s rytmem metabolismu amino kyselin / genetického kodu ve dvojitém hélixu naší DNA.
 

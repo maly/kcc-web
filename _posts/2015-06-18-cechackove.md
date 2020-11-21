@@ -4,7 +4,7 @@ title: Čecháčkové
 date: 2015-06-18T07:00:01+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=1355
+guid: https://kcc.misantrop.info/?p=1355
 permalink: /2015/06/18/cechackove/
 xyz_lnap:
   - "1"

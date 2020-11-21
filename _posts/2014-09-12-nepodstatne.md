@@ -4,7 +4,7 @@ title: Nepodstatné
 date: 2014-09-12T07:00:46+01:00
 author: Martin Maly
 layout: post
-guid: http://kcc.uelectronics.info/?p=219
+guid: https://kcc.misantrop.info/?p=219
 permalink: /2014/09/12/nepodstatne/
 categories:
   - Kuřecí
