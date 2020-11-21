@@ -71,7 +71,13 @@ layout: page
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
-  {% if paginator.previous_page %}
+  {% if paginator.next_page %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}"
+      >Starší &rarr;</a
+    >
+  </li>
+  {% endif %} {% if paginator.previous_page %}
   <li class="page-item previous">
     <a
       class="page-link"
@@ -79,12 +85,6 @@ layout: page
       >&larr; Novější</a
     >
   </li>
-  {% endif %} {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}"
-      >Starší &rarr;</a
-    >
-  </li>
-  {% endif %}
+  {% endif %} 
 </ul>
 {% endif %}
