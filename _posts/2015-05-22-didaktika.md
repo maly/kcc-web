@@ -23,7 +23,7 @@ Přitom zrovna to Arduino je svou nízkoprahovostí naprosto ideální! Měli by
 
 Pak se nedivte, že jsou mladí nihilističtí, kouří, souloží, fetují a chodí studovat humanitní obory! _(Doufám, že i nerdům došlo, že používám sarkasmus&#8230; Nebo si mám udělat cedulku?)_
 
-Samozřejmě jsem dalek toho, abych si jako druhý extrém myslel, že stačí dětem rozdat Arduina, za pět let půjdou všichni na technické univerzity a za deset let můžeme inženýrama dláždit a převálcujeme celý svět. To rozhodně ne. Ale situace nestojí &#8222;nic, nebo všechno&#8220;. Situace je &#8222;nic, nebo aspoň něco?&#8220; A smutné je, že nemáme to _něco. _Zato máme jistě sofistikovanou vzdělávací koncepci. Což je samička od [konceptu](https://kcc.misantrop.info/2014/08/26/bajkazyl/), mimochodem.
+Samozřejmě jsem dalek toho, abych si jako druhý extrém myslel, že stačí dětem rozdat Arduina, za pět let půjdou všichni na technické univerzity a za deset let můžeme inženýrama dláždit a převálcujeme celý svět. To rozhodně ne. Ale situace nestojí &#8222;nic, nebo všechno&#8220;. Situace je &#8222;nic, nebo aspoň něco?&#8220; A smutné je, že nemáme to _něco._ Zato máme jistě sofistikovanou vzdělávací koncepci. Což je samička od [konceptu](https://kcc.misantrop.info/2014/08/26/bajkazyl/), mimochodem.
 
 Nebo snad něco máme?
 
