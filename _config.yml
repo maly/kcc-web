@@ -1,4 +1,4 @@
-url: https://kcc.misantrop.info
+url: https://kcc.misantrop.eu
 name: Kuřecí con carne
 description: Hejna sejra s kousky housky
 
@@ -8,9 +8,9 @@ author: Martin Malý
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Domů: "https://kcc.misantrop.info"
+  Domů: "https://kcc.misantrop.eu"
   Zápisník na Medium: "https://medium.com/@adent"
-  Misantropův zápisník: "https://misantrop.info/"
+  Misantropův zápisník: "https://misantrop.eu/"
   Moje knihy:
     - Hradla volty jednočipy: "https://elektrokniha.cz"
     - Porty bajty osmibity: "https://osmibity.cz"
